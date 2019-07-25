@@ -1,0 +1,15 @@
+.sidebar {
+    left: 0;
+    min-width: 240px;
+    width: 240px;
+    border-right: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 500;
+}
+
+.dog-breed {
+    color: cadetblue;
+    text-decoration: underline;
+    cursor: pointer;
+}

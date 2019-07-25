@@ -1,0 +1,16 @@
+.dog-list {
+    display: flex;
+    flex-flow: row wrap;
+    width: 100%;
+    padding: 1rem;
+}
+
+.dog {
+    max-width: 480px;
+    margin: 8px;
+
+    img {
+        max-width: 480px;
+        box-shadow: 0 0 4px 0 gray;
+    }
+}
